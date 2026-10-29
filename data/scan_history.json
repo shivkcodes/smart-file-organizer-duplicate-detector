@@ -1,0 +1,94 @@
+[
+  {
+    "scan_timestamp": "2026-10-29T19:36:18+05:30",
+    "root_path": "C:\\Users\\shiva\\OneDrive\\Desktop\\OrganizerTest",
+    "total_file_count": 7,
+    "total_size": 520506,
+    "category_counts": {
+      "Images": 2,
+      "Documents": 5
+    },
+    "category_sizes": {
+      "Images": 71651,
+      "Documents": 448855
+    },
+    "duplicate_group_count": 1,
+    "duplicate_file_count": 2,
+    "potential_reclaimable_bytes": 113,
+    "category_summaries": {
+      "Images": {
+        "file_count": 2,
+        "size_bytes": 71651
+      },
+      "Documents": {
+        "file_count": 5,
+        "size_bytes": 448855
+      }
+    },
+    "duplicate_groups": [
+      {
+        "sha256": "7d5bc74ef17644bc5018bb43e8dee0e9b0552386ac987df5b554f40038418ee4",
+        "file_count": 2,
+        "size_bytes": 113,
+        "potential_reclaimable_bytes": 113,
+        "files": [
+          {
+            "path": "C:\\Users\\shiva\\OneDrive\\Desktop\\OrganizerTest\\copy1.txt",
+            "size_bytes": 113
+          },
+          {
+            "path": "C:\\Users\\shiva\\OneDrive\\Desktop\\OrganizerTest\\copy2.txt",
+            "size_bytes": 113
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "scan_timestamp": "2026-10-29T20:55:56+05:30",
+    "root_path": "D:\\My Files\\projects\\sem 1 projects\\OrganizerTest",
+    "total_file_count": 7,
+    "total_size": 520506,
+    "category_counts": {
+      "Images": 2,
+      "Documents": 5
+    },
+    "category_sizes": {
+      "Images": 71651,
+      "Documents": 448855
+    },
+    "duplicate_group_count": 1,
+    "duplicate_file_count": 2,
+    "potential_reclaimable_bytes": 113,
+    "category_summaries": {
+      "Images": {
+        "file_count": 2,
+        "size_bytes": 71651
+      },
+      "Documents": {
+        "file_count": 5,
+        "size_bytes": 448855
+      }
+    },
+    "duplicate_groups": [
+      {
+        "sha256": "7d5bc74ef17644bc5018bb43e8dee0e9b0552386ac987df5b554f40038418ee4",
+        "file_count": 2,
+        "size_bytes": 113,
+        "potential_reclaimable_bytes": 113,
+        "files": [
+          {
+            "path": "D:\\My Files\\projects\\sem 1 projects\\OrganizerTest\\copy1.txt",
+            "size_bytes": 113
+          },
+          {
+            "path": "D:\\My Files\\projects\\sem 1 projects\\OrganizerTest\\copy2.txt",
+            "size_bytes": 113
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  }
+]
